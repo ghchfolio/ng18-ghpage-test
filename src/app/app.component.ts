@@ -13,6 +13,7 @@ import { RouterOutlet } from '@angular/router';
         <li>npm i angular-cli-ghpages --save-dev</li>
         <li>ng build --base-href "/REPOSITORY_NAME/"</li>
         <li>npx angular-cli-ghpages --dir=dist/[PROJECTNAME]/browser</li>
+        <li>visit https://[GITHUBUSERNAME].github.io/[PROJECTNAME]/
     </ol>
 
     <h4>Links</h4>
